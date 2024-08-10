@@ -1,1 +1,1 @@
-# 100 days of Pyhton Coding(Proejcts)
+# 100 days of Python Coding(Proejcts)
